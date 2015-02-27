@@ -1,13 +1,8 @@
 personal/home (to-not-do)
 =========================
 
-- typeset grandad's autobiography (using latex memoir class?)
-- build a [cheap standing desk][]
-- read up on how to do glossaries in latex
-- new website ([done](http://philadams.net))
-- move website to https?
-- write a will, and get it on file somewhere
-- organize quotes database
-- collect resources (and quotes?) on the importance of failing
-
-[cheap standing desk]: http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html
+* setup new bookcase
+* plan tv + bookcase combo
+* re-plan poster arrangements
+* whittle current wardrobe to [minimal wardrobe](https://www.evernote.com/shard/s96/sh/a430fd80-e849-45ae-8a3b-7349ac7cffce/de811dcdb3337c480e55a717f0efc84e)
+* add more comfort items to couch/bed
